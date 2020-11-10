@@ -1,5 +1,4 @@
 
-!
 <h1> Hi, I'm Gordey Moskvichev! <img src="http://i.piccy.info/i9/86e928ecfd4eac3881c79d0e4ec2d60e/1604850759/77114/1389629/84163Snymok_ekrana_2020_11_08_v_18_57_56.png" width="50"><h1>
 <p>
     <a href="https://vk.com/id219052655" alt="Vkontakte"><img src="http://i.piccy.info/i9/0189d6ae0d8358ac45be8e531964bbc4/1604854045/10646/1389629/vk.png" width="20"></a>

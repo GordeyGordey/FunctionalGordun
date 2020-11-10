@@ -7,6 +7,9 @@
     <a href="https://wa.me/79687975261/" alt="Whatsapp"><img src="http://i.piccy.info/i9/e4bf1583c2ba8ae52863de4dc1367d55/1604854159/18262/1389629/whatsapp.png" width="20"></a>
     <a href="mailto:gordey.moskvichev@gmail.com" alt="Email"><img src="http://i.piccy.info/i9/f6cf9885ab9384c6f1a4dec2ba31fa10/1604854653/5050/1389629/gmail_logo.png" width="20"></a>
  <p>
+ <div align="center">
+	<img src="https://github.com/FunctionalGordun/FunctionalGordun/blob/main/2.gif">
+</div>
 <h2>Programming languages<h2>
         <img src="http://i.piccy.info/i9/9cecb416b0e3323928958bcb9c75dc92/1604855994/24758/1389629/c.png" width="30">
         <img src="http://i.piccy.info/i9/5162ca42b0d170e13745e691746ed98b/1604856026/29965/1389629/37897c_1_.png"

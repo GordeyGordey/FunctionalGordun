@@ -19,7 +19,10 @@
         <img src="http://i.piccy.info/i9/3e7e93fed8a913638df717e3c6984359/1604856115/20979/1389629/css.png" width="30">
         <img src="http://i.piccy.info/i9/81594c5883cbabf2e1f62c56b6318c30/1604856136/20062/1389629/javascript.png" width="30">
         <img src="http://i.piccy.info/i9/ecadfc32a3f9153830c8ac62dc7a4e8a/1604856155/28778/1389629/gnu_bash.png" width="30">
-
+<div class="codewar">
+<br>
+<img src="https://www.codewars.com/users/Gordun/badges/small" >
+</div>
 <!--
 **FunctionalGordun/FunctionalGordun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

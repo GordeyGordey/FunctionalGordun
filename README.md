@@ -12,12 +12,11 @@
 </div>
 <h2>Programming languages<h2>
         <img src="http://i.piccy.info/i9/9cecb416b0e3323928958bcb9c75dc92/1604855994/24758/1389629/c.png" width="30">
-        <img src="http://i.piccy.info/i9/5162ca42b0d170e13745e691746ed98b/1604856026/29965/1389629/37897c_1_.png"
-             width="30">
+	<img src="http://i.piccy.info/i9/81594c5883cbabf2e1f62c56b6318c30/1604856136/20062/1389629/javascript.png" width="30">
+        <img src="http://i.piccy.info/i9/5162ca42b0d170e13745e691746ed98b/1604856026/29965/1389629/37897c_1_.png" width="30">
         <img src="http://i.piccy.info/i9/2324934fef034b6ae4a4f4779ce6ff2d/1604856061/21008/1389629/php.png" width="30">
         <img src="http://i.piccy.info/i9/ed77024433fe1abeab2f87aabcc78732/1604856083/21271/1389629/html_5.png" width="30">
         <img src="http://i.piccy.info/i9/3e7e93fed8a913638df717e3c6984359/1604856115/20979/1389629/css.png" width="30">
-        <img src="http://i.piccy.info/i9/81594c5883cbabf2e1f62c56b6318c30/1604856136/20062/1389629/javascript.png" width="30">
         <img src="http://i.piccy.info/i9/ecadfc32a3f9153830c8ac62dc7a4e8a/1604856155/28778/1389629/gnu_bash.png" width="30">
 <!-- <div class="codewar"> // как будет 5 ката поставлю
 <br>
